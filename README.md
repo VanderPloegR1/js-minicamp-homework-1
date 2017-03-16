@@ -4,11 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+•	Variables: Variables are a representation of a value, like a number, string, or Boolean, which can be referenced and used by their variable name.
+•	Strings: Strings are letters and numbers that are stored in a variable in the order in which they were first presented (unless modified specifically)
+•	Functions are pieces of code that are not executed until the function is called for later. The values that are put into the function are arguments, and the answer that the function gives back after the code has executed is the return.
+•	If Statements: If statements test two numbers for things like equivalency, or which is greater. It the test is passed, the computer will execute a certain group of code, but if the test is failed, then it will not execute that code.
+•	Boolean Values: Boolean values are a way of representing is something is true or false in computer programming.
+
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
